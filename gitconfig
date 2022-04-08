@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandreforestier1107@gmail.com
+	name = Alexandre Forestier
